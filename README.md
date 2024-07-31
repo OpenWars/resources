@@ -16,3 +16,6 @@ This repository stores all resources (sprites, music, etc) needed for OpenWars g
 - [ ] GUI Textures
 - [ ] Music
 - [ ] Sound Effects
+- [ ] Battle HUD
+- [ ] COs Full Body Characters
+- [ ] COs Battle Expressions
